@@ -1,1 +1,1 @@
-# Projet-CAPI
+# Projet CAPI
