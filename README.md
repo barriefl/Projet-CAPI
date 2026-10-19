@@ -12,3 +12,16 @@ npm run dev
 # Lancer les tests.
 npm run test:unit
 ```
+
+## Structure du backlog
+
+```json
+{
+  "projet": "Bibliothèque en ligne",
+  "fonctionnalites": [
+    { "id": "F1", "titre": "Rechercher un livre par titre", "complexité": 5 },
+    { "id": "F2", "titre": "Emprunter un livre disponible", "complexité": 13 },
+    { "id": "F3", "titre": "Recevoir un rappel avant la date de retour", "complexité": null }
+  ]
+}
+```
